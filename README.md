@@ -1,5 +1,11 @@
 # AI 活動報名訊息整理助手
+## 線上展示網址
 
+Streamlit App：
+https://ai-event-assistant-ijxvcis6hgqgdmrue7vaqs.streamlit.app/
+
+GitHub 原始碼：
+https://github.com/a113222016-cyber/ai-event-assistant
 一個使用 Streamlit + OpenAI API 的繁體中文小工具。使用者貼上活動公告後，系統以 Structured Outputs（JSON Schema）整理活動欄位、重要資訊、下一步行動及缺漏資訊。
 
 ## 專題目的
